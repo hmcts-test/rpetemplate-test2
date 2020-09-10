@@ -1,0 +1,11 @@
+apiVersion: v2
+appVersion: "1.0"
+description: A Helm chart for rpetemplate-test-2 App
+name: rpetemplate-test-2
+home: https://github.com/hmcts/rpetemplate-test-2
+version: 0.0.1
+dependencies:
+  - name: nodejs
+    version: 2.0.1
+    repository: '@hmctspublic'
+

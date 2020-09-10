@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "rpetemplate-test-2"
+  description: Testing
+spec:
+  type: service
+  lifecycle: experimental
+  owner: Tim.Jacomb
